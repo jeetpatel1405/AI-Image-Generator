@@ -59,7 +59,7 @@ You'll need to create accounts and get API keys from:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/ai-image-generator.git
+git clone https://github.com/jeetpatel1405/ai-image-generator.git
 cd ai-image-generator
 ```
 
