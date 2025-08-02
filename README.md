@@ -2,6 +2,7 @@
 
 A modern, full-stack web application that allows users to create stunning AI-generated images using OpenAI's DALL-E API and share them with a creative community.
 
+[![🎥 Watch Demo](https://img.shields.io/badge/Watch%20Demo-Click%20Here-blue?logo=youtube)](https://drive.google.com/file/d/1WimldYtqXxVeoUU4a5O2D5Pd0bR6cK27/view?usp=drive_link)
 ![AI Image Generator](https://img.shields.io/badge/React-18.0.0-blue)
 ![Node.js](https://img.shields.io/badge/Node.js-16+-green)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-brightgreen)
